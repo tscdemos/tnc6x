@@ -1,6 +1,6 @@
-ID;productName;productDescription;productPrice
-6e762fe4-9a3f-4fe0-ac5b-196fb055e926;Mountain Bike;A bike suitable for mountain terrain;250.00
-8915e6f8-de44-4056-98c6-3f5dd7170d0f;Road Bike;A bike designed for paved roads;300.00
-8a2b96a4-368f-4d81-a58f-5bd7bdb4131a;Hybrid Bike;A combination of a road bike and a mountain bike;350.00
-3c76929d-41a9-48ab-aa63-b573523738b4;Electric Bike;A bike equipped with an integrated electric motor;800.00
-14dc7aa8-db99-49e7-a194-d513921615c1;Kids Bike;A smaller bike designed for children;100.00
+ID;productName;productDescription;productPrice;margin
+6e762fe4-9a3f-4fe0-ac5b-196fb055e926;Mountain Bike;A bike suitable for mountain terrain;250.00;50.00
+8915e6f8-de44-4056-98c6-3f5dd7170d0f;Road Bike;A bike designed for paved roads;300.00;60.00
+8a2b96a4-368f-4d81-a58f-5bd7bdb4131a;Hybrid Bike;A combination of a road bike and a mountain bike;350.00;70.00
+3c76929d-41a9-48ab-aa63-b573523738b4;Electric Bike;A bike equipped with an integrated electric motor;800.00;160.00
+14dc7aa8-db99-49e7-a194-d513921615c1;Kids Bike;A smaller bike designed for children;100.00;20.00
